@@ -41,7 +41,7 @@ $inicio=1;
 
 	<div class="col-md-1"><span class="fontawesome-icons" style="color:#e0922e !important"><span class="fontawesome-icon"><i class="fa fa-share-alt fa-5x" data-fa-transform="" data-fa-mask=""></i></span></span></div>
 
-<div class="col-md-10" ><h1 style="color:#e0922e !important">TOWARDS A NETWORK OF ONTOLOGIES FOR THE EUROPEAN POETRY /h1></div>
+<div class="col-md-10" ><h1 style="color:#e0922e !important">TOWARDS A NETWORK OF ONTOLOGIES FOR THE EUROPEAN POETRY </h1></div>
 </div>
 	
 	<hr class="line"/>
@@ -140,7 +140,7 @@ Illustration 2. Workflow of the Domain Model development process.
 <div style="text-align: center"><a href="http://postdata-prototype.linhd.uned.es/domain-visualization.php" target="new"><img src="images/domainareas.png" width="50%" /></a><br/>Illustration 3. Visualization tool page</div>
 </div>	
 <br/><br/>
-<div class="citation-block last-row">
+<div class="citation-block last-row first-row">
 <h3><a href="http://postdata-prototype.linhd.uned.es/domain-visualization.php" target="new"><span class="fontawesome-icons" style="color:#e0922e !important"><span class="fontawesome-icon"><i class="fa fa-hand-o-right fa-2x" data-fa-transform="" data-fa-mask=""></i></span></span>Access to the visualization tool </a> </h3>
 
 
@@ -181,8 +181,9 @@ The criteria are:
 <h3><a href="http://postdata-prototype.linhd.uned.es/ontology.php" target="new"><span class="fontawesome-icons" style="color:#e0922e !important"><span class="fontawesome-icon"><i class="fa fa-hand-o-right fa-2x" data-fa-transform="" data-fa-mask=""></i></span></span>Access to network of ontologies</a> </h3>
 	 </div>
 	 
- <div class="col-md-12 " style="padding:2%"  >
-<img src="images/red.jpg" width="95%">
+ <div class="col-md-12 first-row"  >
+<img src="images/red.jpg" width="80%"><br/>
+Illustration 4. Ontology Network Diagram
 	
 	 </div>
  
